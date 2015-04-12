@@ -1,6 +1,5 @@
 .idea/*
 /bootstrap/compiled.php
-/vendor
 /node_modules
 composer.phar
 .env.*.php
